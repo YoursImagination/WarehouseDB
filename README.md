@@ -1,1 +1,5 @@
 # WarehouseDB
+
+1) BD_back - резервная копия БД - открывать при помощи SQL Server 2022 и выше(по возрастанию года)
+2) Для запуска осн. проекта: WarehouseBD/WarehouseBD.csproj
+3) BD_back.zip - если обычный файл повредится
